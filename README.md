@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <iframe
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    src="https://microsoft.github.io/pxt-kickoff/?embed=1&nofooter=1"
+    allowfullscreen="allowfullscreen"
+    sandbox="allow-popups allow-forms allow-scripts allow-same-origin"
+    frameborder="0"
+  ></iframe>
+</div>
