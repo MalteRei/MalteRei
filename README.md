@@ -1,5 +1,7 @@
-### Hi there 👋
+### 👋 Hi there!
+I am Malte Reimann, recently completing my bachelor's of science in computer science at Karlsruhe Institute of technology and I am a <a href="https://studentambassadors.microsoft.com/en-US/profile/56292">Gold Microsoft Learn Student Ambassador</a>, ... , and so much more. Let's explore a view facets of my life.
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="829deac1-9b67-4dd8-a789-6333f266a775" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **MalteRei/MalteRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
