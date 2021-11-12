@@ -14,6 +14,7 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 👦🏽 Pronouns: he/him/his
 💬 Languages: Deutsch, English (TOEFL score of 112) and un peu de français
 👨🏽‍💻 ~~Favorite~~ /*that's not sackable*/ Programming Language /*instead of singeling out one here are the ones I program in)*/:
+* Test
 *Java /*first programming language I learned.*/
 *TypeScript /*love it because it is JavaScript with all its freedom but I couldn't go without the static typing.*/
 *C/C++ /*C and C++ helped me to learn a lot about hardware.*/
