@@ -40,6 +40,8 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
  <br>
   <p>For my bachelor's thesis I developed and evaluated two mixed reality applications. The first application is a virtual piano learning environment in which learning through a visual tutorial or a haptic tutorial that vibrates the finger to press the next piano key with. In the second application the player has to help a character across holographic floating islands. The canyon between the islands are to wide for the character to jump by itself. Through hand tracking the player can bridge the gap with their hand. One variation of the game allows the player to feel the steps of the character walking across the players hand. Both applications run on a HoloLens 2, borrowed from <a href="https://www.media-lesson.com/en/index.html">medialesson</a>. The hardware for the on-skin actuators for haptic feedback is based on state of the art research. They work through Lorenz force between a magnet and a circuit. The learning rate in the piano application was evaluated with a between-subject study. A diverse within-subject study gives insight into the feeling of presence of playing the game with haptic feedback.</p>
 </details>
+<br>
+<br>
 
 <img src="assets/projects/screenshots/project-amy.png" height="254px" width="auto" alt="Live Demo at Cloud Summit showing teams chat and light up RGB keyboard when reacting to a message." /> 
 <details>
