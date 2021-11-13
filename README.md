@@ -32,26 +32,12 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 ### Past Projects
 <details>
 <summary><b> My Work Project :point_right:</b></summary>
-<table>
-  <thead>
-    <tr>
-      <th>Image</th>
-      <th>Project Name</th>
-      <th>Technologies</th>
-      <th>Description</th>
-      <th>Further Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="130px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." /></td>
-      <td>Bachelor's Thesis</td>
-      <td>Python</td>
-      <td>this is my first flask project</td>
-    </tr>
-   
-  </tbody>
-</table>
+<img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="130px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." />
+  <h4>Application of On-Skin Actuators for Haptic Feedback in Mixed Reality</h4>
+  <b>Technologies</b>: Unity, C#,
+  <b>Further Links</b>:
+  <p>Desnrjngrwjngrwj</p>
+  
 </details>
 <!-- end work project section -->
 
