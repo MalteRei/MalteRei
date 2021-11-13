@@ -13,9 +13,9 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 ### Snackable Bites
 👦🏽 Pronouns: he/him/his
 
-💬 Languages: Deutsch, English (TOEFL score of 112) and un peu de français
+💬 Languages: Deutsch, English (TOEFL score of 112) and un peu de français.
 
-👨🏽‍💻 ~~Favorite~~ /*\*surprise, I don't have one favorite\**/ Programming Language /*\*instead of singeling out one here are the ones I program in\**/:
+👨🏽‍💻 ~~Favorite~~ /*\*surprise, I don't have one favorite\**/ **Programming Language** /*\*instead of singeling out one, here are the ones I program in\**/:
 
  * Java /*\*first programming language I learned.\**/
  * TypeScript /*\*love it because it is JavaScript with all its freedom but I couldn't go without the static typing.\**/
@@ -25,8 +25,35 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
  * Haskell /*\*I love how elegant functional programming is and am glad that I learned it at university. I wish it would be used in more projects.\**/
  * SQL /*\*The organization part of my brain loves SQL for its ability to structure data.\**/
 
+**Working Experience**: SkipQ, a startup to give customers time back in their daily purchases; research assistant and teaching assistant at Karlsruhe Institute of Technology.
 
-Working Experience SkipQ, a startup to give customers time back in their daily purchases; research assistand and teaching assistant at Karlsruhe Institute of Technology
+---
+
+### Past Projects
+<details>
+<summary><b> My Work Project :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Image</th>
+      <th>Project Name</th>
+      <th>Technologies</th>
+      <th>Description</th>
+      <th>Further Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="130px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." /></td>
+      <td>Bachelor's Thesis</td>
+      <td>Python</td>
+      <td>this is my first flask project</td>
+    </tr>
+   
+  </tbody>
+</table>
+</details>
+<!-- end work project section -->
 
 
 **MalteRei/MalteRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
