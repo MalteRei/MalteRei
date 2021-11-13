@@ -44,7 +44,7 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/projects/screenshots/mixed-reality-piano.png" height="130px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." /></td>
+      <td><img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="130px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." /></td>
       <td>Bachelor's Thesis</td>
       <td>Python</td>
       <td>this is my first flask project</td>
