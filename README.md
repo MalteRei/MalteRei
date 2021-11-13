@@ -30,6 +30,7 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 ---
 
 ### Past Projects
+
 <img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="254px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." />
  <img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-game.png" height="254px" width="auto" alt="Screenshots of mixed reality game application left with haptic feedback when holographic character walks on players hand and left without haptics." />
 <details>
@@ -38,9 +39,7 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
   <h4>Application of On-Skin Actuators for Haptic Feedback in Mixed Reality</h4>
   <b>Technologies</b>: Unity, Mixed Reality Toolkit, HoloLens 2, C#, C, PCB design, 3D printing, ESP32 microcontroller, Python for data analysis
   <br>
- <br>
-  <b>Further Links</b>:<img style="border-radius: 50%;" src="assets/icons/github.svg" height="16px" width="auto" alt="GitHub icon"/><a href="https://github.com/MalteRei/KIT-bachelor-thesis-piano">Piano Application Repo</a><img style="border-radius: 50%;" src="assets/icons/github.svg" height="16px" width="auto" alt="GitHub icon"/><a href="https://github.com/MalteRei/KIT-bachelor-thesis-piano">Game Repo</a>
-  <br>
+  <b>Further Links</b>: <img style="border-radius: 50%;" src="assets/icons/github.svg" height="16px" width="auto" alt="GitHub icon"/> <a href="https://github.com/MalteRei/KIT-bachelor-thesis-piano">Piano Application Repo</a>, <img style="border-radius: 50%;" src="assets/icons/github.svg" height="16px" width="auto" alt="GitHub icon"/> <a href="https://github.com/MalteRei/KIT-bachelor-thesis-piano">Game Repo</a>
  <br>
   <p>For my bachelor's thesis I developed and evaluated two mixed reality applications. The first application is a virtual piano learning environment in which learning through a visual tutorial or a haptic tutorial that vibrates the finger to press the next piano key with. In the second application the player has to help a character across holographic floating islands. The canyon between the islands are to wide for the character to jump by itself. Through hand tracking the player can bridge the gap with their hand. One variation of the game allows the player to feel the steps of the character walking across the players hand. Both applications run on a HoloLens 2, borrowed from <a href="https://www.media-lesson.com/en/index.html">medialesson</a>. The hardware for the on-skin actuators for haptic feedback is based on state of the art research. They work through Lorenz force between a magnet and a circuit. The learning rate in the piano application was evaluated with a between-subject study. A diverse within-subject study gives insight into the feeling of presence of playing the game with haptic feedback.</p>
   
