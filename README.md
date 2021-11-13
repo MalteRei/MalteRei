@@ -31,10 +31,10 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 
 ### Past Projects
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b>Bachelor's Thesis: Application of On-Skin Actuators for Haptic Feedback in Mixed Reality</b></summary>
 <br>
-<img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="412px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." />
- <img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-game.png" height="412px" width="auto" alt="Screenshots of mixed reality game application left with haptic feedback when holographic character walks on players hand and left without haptics." />
+<img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-piano.png" height="254px" width="auto" alt="Screenshots of mixed reality piano application with haptic feedback, visual piano tutorial and piano recorder to investigate learning rate." />
+ <img style="border-radius: 50%;" src="assets/projects/screenshots/mixed-reality-game.png" height="254px" width="auto" alt="Screenshots of mixed reality game application left with haptic feedback when holographic character walks on players hand and left without haptics." />
   <h4>Application of On-Skin Actuators for Haptic Feedback in Mixed Reality</h4>
   <b>Technologies</b>: Unity, Mixed Reality Toolkit, HoloLens 2, C#, C, PCB design, 3D printing, ESP32 microcontroller, Python for data analysis
   <br>
