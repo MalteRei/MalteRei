@@ -66,16 +66,8 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 </details>
 <br>
 <br>
+An overview of all projects is available on <a href="https://www.maltereimann.vision/">my portfolio website</a>. 
 
-<img src="assets/projects/screenshots/shopping-list-bit.png" height="254px" width="auto" alt="Racoon depicted as bot in phone." /> <img src="assets/projects/screenshots/shopping-list-teams.png" height="254px" width="auto" alt="Screenshot of possible Teams chat with shopping list bot." /> 
-<details>
-<summary><b>Shopping List Bot: Building a Shopping List with a Sprinkle of Intelligence</b></summary>
-<b>Technologies</b>: Azure Functions, TypeScript, Microsoft Bot Framework, Cosmos DB, Language Understanding, Microsoft Teams, Adaptive Cards, GitHub Actions
-<br>
-<b>Further Links</b>: <img src="assets/icons/github.svg" height="16px" width="auto" alt="GitHub icon"/> <a href="https://github.com/microsoft-campus-community/workshop-shopping-list-bot">Repo</a>, <img src="assets/icons/youtube.svg" height="16px" width="auto" alt="YouTube icon"/> <a href="https://youtu.be/GD9AePydcs4">Microsoft 365 Developer Interview</a>, <img src="assets/icons/youtube.svg" height="16px" width="auto" alt="YouTube icon"/> <a href="https://youtu.be/32QL7wITclw">Recording full-length workshop</a>
-<br>
-<p><a href="https://github.com/spethso">Sandro Speth</a> and I created a prepackaged workshop for other Microsoft Learn Student Ambassadors to host. The workshop teaches how to build a smart chatbot using the Microsoft Bot Framework and LUIS service. The bot can manage a shared shopping list for a group chat, for example with roommates. To store the shopping list we also build a serverless backend that stores list items in a Cosmos DB using the MongoDB API. To showcase the project we were interviewed on the Microsoft 365 Developer YouTube channel. The GitHub repoistory contains a detailed wiki you should have a look at to get started with any of the technologies or to do the workshop.</p>
-</details>
 
 **MalteRei/MalteRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
