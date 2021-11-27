@@ -65,9 +65,9 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 <p><a href="https://github.com/spethso">Sandro Speth</a> and I created a prepackaged workshop for other Microsoft Learn Student Ambassadors to host. The workshop teaches how to build a smart chatbot using the Microsoft Bot Framework and LUIS service. The bot can manage a shared shopping list for a group chat, for example with roommates. To store the shopping list we also build a serverless backend that stores list items in a Cosmos DB using the MongoDB API. To showcase the project we were interviewed on the Microsoft 365 Developer YouTube channel. The GitHub repoistory contains a detailed wiki you should have a look at to get started with any of the technologies or to do the workshop.</p>
 </details>
 <br>
-<br>
 An overview of all projects is available on <a href="https://www.maltereimann.vision/">my portfolio website</a>. 
-
+<br>
+<br>
 
 **MalteRei/MalteRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
