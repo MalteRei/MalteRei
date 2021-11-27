@@ -15,7 +15,7 @@ I am Malte Reimann, a fresh bachelor of computer science graduate at Karlsruhe I
 
 💬 Languages: Deutsch, English (TOEFL score of 112) and un peu de français.
 
-👨🏽‍💻 ~~Favorite~~ /*\*surprise, I don't have one favorite\**/ **Programming Language** /*\*instead of singeling out one, here are the ones I program in\**/:
+👨🏽‍💻 ~~Favorite~~ /*\*surprise, I don't have one favorite\**/ **Programming Language** /*\*instead of singeling one out, here are the ones I program in\**/:
 
  * Java /*\*first programming language I learned.\**/
  * TypeScript /*\*love it because it is JavaScript with all its freedom but I couldn't go without the static typing.\**/
@@ -70,8 +70,4 @@ An overview of all projects is available on <a href="https://www.maltereimann.vi
 <br>
 <br>
 
-**MalteRei/MalteRei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-**📫 How to reach me:**[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social)](https://www.linkedin.com/in/malte-reimann/)
+**📫 How to reach me**: [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social)](https://www.linkedin.com/in/malte-reimann/)
